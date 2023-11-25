@@ -18,7 +18,7 @@ Our goal is to establish a collaborative and open-source platform for students t
 
 ## Contributing
 
-We warmly welcome contributions from Daffodil International University students and alumni, as well as enthusiasts from various fields. If you're new to contributing or unsure about the process, you can simply email the source code along with a description to diucodebase@gmail.com, and we'll be happy to assist in incorporating your contribution.
+We warmly welcome contributions from Daffodil International University students and alumni, as well as enthusiasts from various fields. If you're new to contributing or unsure about the process, you can simply email the source code along with a description to diucodebase@gmail.com or [send message on telegram](https://t.me/wahidsadikjishan), and we'll be happy to assist in incorporating your contribution.
 
 For those familiar with Git and GitHub, feel free to fork this repository, add your own code samples and projects, and submit pull requests to share your contributions with the DIU community.
 
